@@ -1,4 +1,4 @@
-## Hiya! I'm Zephyro!
+## 👋🏻Hiya! I'm Zephyro!
 
 ---
 
@@ -23,7 +23,7 @@ const wilver = {
 };
 ```
 
-I also have my own **Visual Studio Code** Color Theme!
+I also have my own **Visual Studio Code** Color Theme! 😁
 
 You can find it here: [Zephyr Nights Theme](https://marketplace.visualstudio.com/items?itemName=ZephyroCode.zephyr-nights-theme)
 
@@ -31,6 +31,6 @@ You can find it here: [Zephyr Nights Theme](https://marketplace.visualstudio.com
 
 ### You can find me here:
 
-- My Blog: [ZephyroCode](https://zephyrocode.github.io/ "Zephyro's Blog")
-- My LinkedIn: [Wilver Salazar](https://linkedin.com/in/wilver-salazar/ "Wilver's LinkedIn")
-- My Discord: [Wilver#7456](https://discordapp.com/users/271083466890674176/ "Zephyro's Discord")
+- 📢 My Blog: [ZephyroCode](https://zephyrocode.github.io/ "Zephyro's Blog")
+- 🙋🏻 My LinkedIn: [Wilver Salazar](https://linkedin.com/in/wilver-salazar/ "Wilver's LinkedIn")
+- 💬 My Discord: [Wilver#7456](https://discordapp.com/users/271083466890674176/ "Zephyro's Discord")
