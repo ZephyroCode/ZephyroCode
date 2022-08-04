@@ -6,7 +6,7 @@ Frontend Web Developer
 
 I started studying Web Development in August 2021. I'm always coding some stuff for practicing, and I love to learn new stuff! I love sharing what I know, so every time I learn something new, I love to share it with someone, or even teach it if I can! You can also check my Introduction post in my blog!
 
-* 🚀  I'm currently working on [my blog!](http://zephyrocode.github.io)
+* 🚀  I'm currently working on [my blog!](http://zephyrocode.github.io) and [my VSCode theme!](https://marketplace.visualstudio.com/items?itemName=ZephyroCode.zephyr-nights-theme)
 * 🧠  I'm learning JavaScript DOM, ReactJS, and SASS!
 * 🤝  I'm open to collaborating on Frontend Projects!
 * ⚡  I'm an helicopter, but that's a secret... don't tell anyone :D
