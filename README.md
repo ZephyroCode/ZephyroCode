@@ -9,7 +9,7 @@ I started studying Web Development in August 2021. I'm always coding some stuff 
 * 🌍  I'm based in Venezuela
 * ✉️  You can contact me at [wilversmithsl@gmail.com](mailto:wilversmithsl@gmail.com)
 * 🚀  I'm currently working on [my blog!](http://zephyrocode.github.io)
-* 🧠  I'm learning JavaScript again... and some Python too.
+* 🧠  I'm learning some more JavaScript, React and Vue... also some Python and Dart.
 * 🤝  I'm open to collaborating on Frontend Projects!
 * ⚡  I'm an helicopter, but that's a secret... don't tell anyone...
 
